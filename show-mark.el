@@ -49,6 +49,7 @@
 ;; Public interface
 ;;
 
+;;;###autoload
 (define-minor-mode show-mark-mode
   ;; The default docstring is good enough
   nil
@@ -119,5 +120,5 @@ current value of `mark'."
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (provide 'show-mark)
-
 ;;; show-mark.el ends here
+
