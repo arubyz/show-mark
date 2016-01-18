@@ -1,4 +1,4 @@
-;;; show-mark.el --- Global minor mode to indicate the mark in the fringe with an arrow
+;;; show-mark.el --- Indicate the mark in the fringe with an arrow
 
 ;; Copyright (C) 2016 <arubyz@gmail.com>
 
@@ -33,6 +33,7 @@
 ;; - http://www.emacswiki.org/emacs/TheFringe
 ;; - http://www.emacswiki.org/emacs/FringeMark
 ;; - https://github.com/milkypostman/fringemark
+;;
 
 ;;; Code:
 
